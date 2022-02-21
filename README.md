@@ -1,4 +1,9 @@
 # PraktikumLayout
-#MainActivity1
+# MainActivity1
+![Alt text](https://github.com/athallahayudya/PraktikumLayout/blob/edd12a222f262888efe18ce3dff2e7f9b672de8c/PraktikumLayout/WhatsApp%20Image%202022-02-18%20at%2021.25.45.jpeg)
+# MainActivity2
+![Alt text](https://github.com/athallahayudya/PraktikumLayout/blob/edd12a222f262888efe18ce3dff2e7f9b672de8c/PraktikumLayout/WhatsApp%20Image%202022-02-18%20at%2021.25.45%20(1).jpeg)
+# MainCtivity3
+![Alt text](https://github.com/athallahayudya/PraktikumLayout/blob/edd12a222f262888efe18ce3dff2e7f9b672de8c/PraktikumLayout/WhatsApp%20Image%202022-02-18%20at%2021.27.07.jpeg)
+# MainActivity4
 ![Alt text](https://github.com/athallahayudya/PraktikumLayout/blob/e6e953812ec06b3acc2853f93ff255d3dbbc64db/PraktikumLayout/WhatsApp%20Image%202022-02-18%20at%2021.25.44.jpeg)
-#MainActivity2
